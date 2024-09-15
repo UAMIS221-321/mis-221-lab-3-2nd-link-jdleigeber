@@ -1,0 +1,15 @@
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\bin\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.exe
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\bin\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.deps.json
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\bin\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.runtimeconfig.json
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\bin\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.dll
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\bin\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.pdb
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.AssemblyInfoInputs.cache
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.AssemblyInfo.cs
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.csproj.CoreCompileInputs.cache
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.sourcelink.json
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.dll
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-jdleigeber.dll
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.pdb
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\mis-221-lab-3-2nd-link-jdleigeber.genruntimeconfig.cache
+C:\Users\jdlei\mis-221-lab-3-2nd-link-jdleigeber\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-jdleigeber.dll
